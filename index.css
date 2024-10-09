@@ -21,3 +21,11 @@ img {
     height: 150px;
     border: 5px solid green;
 }
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
